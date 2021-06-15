@@ -6,5 +6,7 @@ Le site web doit à terme rassembler :
 - une bibliographie de l’architecture publique
 - conbavil / atlas ?
 - un répertoire de sources sur les bâtiments civils
+- sources numérisées en histoire de l’architecture
 
 Les contenus peuvent prendre la forme de fichiers XML-TEI, être distribués dans différents formats par l’intermédiaire d’une API, ou plus simplement structurés en md.
+
