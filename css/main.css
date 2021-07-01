@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+center-l {
+  box-sizing: content-box;
+}
+
+/* 
+ * Typo
+ */
+:root {
+  font-family: sans-serif;
+}
+
+/* Font sizes */
+:root {
+  font-size: calc(1rem + 0.5vw);
+}
+* {
+  max-width: 60ch;
+}
+
+html,
+body,
+div,
+header,
+nav,
+main,
+footer {
+  max-width: none;
+}
+
+h1 {
+  /* ↓ 2.5 × the root font-size */
+  font-size: 2.5rem;
+}
+
+h2 {
+  /* ↓ 1.75 × the root font-size */
+  font-size: 1.75rem;
+}
